@@ -22,7 +22,7 @@ Use the code below to clone ThickMustache and get the Mustache Submodule:
 Or
 
 	git clone git://github.com/mardix/ThickMustache.git
-	git submodules update --init
+	git submodule update --init
 
 
 
@@ -61,13 +61,19 @@ ThickMustache keeps everything the same
 
 	include file outside of the working dir, pay attention at !
 
+```
+
 	{{%include !/my/other/path/file.html}} 
 
+```
 
 	include a file reference name, which was loaded with ThickMustache::addTemplate($name,$src)
 
+```
+
  	{{%include @TemplateName}} : 
 
+```
 
 **Raw**: Mustache tags between {{%raw}}{{/raw}} will not be parsed. 
 
