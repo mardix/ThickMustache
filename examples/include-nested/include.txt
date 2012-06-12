@@ -1,0 +1,14 @@
+
+Page #1. It will include page2.tpl
+
+--------
+Page name: page2.tpl
+
+This page was included
+
+I live in Charlotte NC, an awesome place
+
+----------
+Page name: page3.tpl
+
+This page was included from page2.tpl   

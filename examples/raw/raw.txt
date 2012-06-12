@@ -1,0 +1,24 @@
+
+Hello! 
+
+My name is Mardix!
+
+I'm from Charlotte, NC 
+
+I like Music,Web development,Ethiopian girls
+
+Originally I'm from Haiti, an awesome place
+
+Below is raw
+-------------
+
+    My name is {{Name}}!
+
+    I'm from {{Location}} 
+
+    I like {{Hobbies}}
+
+    Originally I'm from {{#Origin}}Haiti{{/Origin}}
+
+----------
+:)

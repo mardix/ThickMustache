@@ -1,0 +1,20 @@
+
+Page #1. include a file from another directory using the abolute path
+
+Path: ../include-embeded/templates/page4.tpl
+
+This is done by adding the bang "!" before the file path
+
+ie: {{%include !../include-embeded/templates/page4.tpl}} 
+
+
+THE PAGE BELOW HAS BEEN INCLUDED VIA ABSOLUTE PATH
+
+--------
+Page name: page4.tpl
+
+This page was EMBEDED
+
+I live in Charlotte NC, an awesome place
+ 
+

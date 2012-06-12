@@ -1,0 +1,11 @@
+
+Page #1. It will embed page4.tpl
+
+--------
+Page name: page4.tpl
+
+This page was EMBEDED
+
+I live in Charlotte NC, an awesome place
+ 
+
