@@ -4,7 +4,7 @@
 
 ThickMustache is an extension of [Mustache.php](https://github.com/bobthecow/mustache.php)
 
-ThickMustache extends Mustache by adding the follwing:
+ThickMustache extends Mustache by adding the following:
 
  * work with template directory
  * include other template files
