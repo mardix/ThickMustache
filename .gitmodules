@@ -2,3 +2,6 @@
 	path = .
 	url = git://github.com/bobthecow/mustache.php.git
               
+[submodule "Mustache"]
+	path = src/Mustache
+	url = git://github.com/bobthecow/mustache.php.git
