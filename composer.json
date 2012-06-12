@@ -1,0 +1,19 @@
+{
+    "name": "thickmustache/thickmustache",
+    "type": "library",
+    "description": "Extends Mustache, a logic-less  template engine. It adds the ability to work with template directory, include template files in a template file, assign variables, define raw blocks ",
+    "keywords": ["mustache","template"],
+    "homepage": "https://mardix.github.com/ThickMustache",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mardix",
+            "twitter": "http://twitter.com/mardix",
+            "homepage": "http://mardix.tumblr.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
